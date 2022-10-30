@@ -1,16 +1,4 @@
-# chat
+# Flutter chat app with firebase using firebase_auth and firebase_cloud services. 
 
-A new Flutter project.
+This is the simple chat app using flutter and dart code. It is just for practise on how to use flutterfire, firebase, and firebase-auth system.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
